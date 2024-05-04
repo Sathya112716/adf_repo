@@ -1,4 +1,4 @@
-# Databricks notebook source file
+# Databricks notebook source file.
 dbutils.fs.mount(
     source='wasbs://bronze@adfassignsathya.blob.core.windows.net/',
     mount_point='/mnt/bronze',
