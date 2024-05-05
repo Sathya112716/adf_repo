@@ -1,4 +1,4 @@
-# Databricks notebook source file.
+# Databricks notebook source.
 product_df='dbfs:/mnt/silver/sales_view/product'
 store_df='dbfs:/mnt/silver/sales_view/store'
 
