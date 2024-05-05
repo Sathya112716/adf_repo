@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Databricks notebook source file
 store_df = spark.read.csv("dbfs:/mnt/bronze/store/20240105_sales_store.csv", header=True)
 
 # COMMAND ----------
